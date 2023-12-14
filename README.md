@@ -2,9 +2,15 @@
 First project of a series of experiments with the goal of having video games AI perform interesting behaviors in order to push the boundaries of what is possible for video games AI using possibly reinforcement learning.
 
 ## Requirements 
+`
 -Unity
 -C#
 -Microsoft visual studio (required to get type hints for unity framework)
+`
+Unity packages :
+`
+Unity ML-agents
+`
 
 ## Description
 In this project, we will have the mario character slowly climbing the ladders in order to reach the princess at the top. While in his quests, the vilain would be throwing different barils at him each able to randomly choose to climb down the ladder
