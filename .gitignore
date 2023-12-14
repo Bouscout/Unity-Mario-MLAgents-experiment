@@ -46,6 +46,7 @@ Packages/
 *.mdb
 *.opendb
 *.VC.db
+*.csproj
 
 # Unity3D generated meta files
 *.pidb.meta
